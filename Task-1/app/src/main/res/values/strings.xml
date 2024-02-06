@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Torch</string>
+    <string name="msg_error">This device does not contain camera</string>
+    <string name="lbl_ok">Okay</string>
+</resources>
