@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718743244 source:c:\users\shekg\onedrive\documents\github\codsoft\c++\number guessing game\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
